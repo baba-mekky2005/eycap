@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Retry once for Docker CI failures (#8164)
